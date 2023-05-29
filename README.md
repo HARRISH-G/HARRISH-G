@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @HARRISH-G
-- 👀 I’m interested in Distributed technology.
-- 🌱 I’m currently learning Distributed technology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ harrish.prof@gmail.com .
-
-<!---
-HARRISH-G/HARRISH-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/harrishg"><img src="https://api.daily.dev/devcards/0786a57e3912428fb467f22026ca558a.png?r=n37" width="400" alt="HARRISH G's Dev Card"/></a>
